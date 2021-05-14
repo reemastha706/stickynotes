@@ -1,0 +1,20 @@
+.main{
+    box-sizing: border-box; 
+    width: 100%;
+    min-height: 300px; 
+    border: solid 1px black; 
+    position: relative;
+    margin-top: 10px;
+    
+    background:navajowhite;
+}
+.vlines{
+    position: absolute;
+    border-left: solid 2px red;
+    border-right: solid 2px red;
+    float: left;
+    height: 100%;
+    width: 5px;
+    margin-left: 20px;
+    
+}
